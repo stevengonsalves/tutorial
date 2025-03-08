@@ -30,4 +30,4 @@ if __name__ == "__main__":
     chain = Chain()
     portfolio = Portfolio()
     st.set_page_config(layout="wide", page_title="Cold Email Generator", page_icon="📧")
-    create_streamlit_app(chain, portfolio, clean_text)
+    create_streamlit_app(chain, portfolio, clean_text)dujb
